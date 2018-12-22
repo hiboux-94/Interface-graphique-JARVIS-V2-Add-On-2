@@ -53,4 +53,4 @@ exemple : "JARVIS V2 HALL-9000-grand", "JARVIS V2 HALL-9000-petit", "JARVIS V2 V
 
 #### 2 => Lancer RainMeter, puis cliquer sur l’icône dans le systray pour afficher la fenêtre de gestion.
 
-#### 3 => Dans l'interface de Rainmeter, dans l'onglet "Skins", cliquer sur le bouton "Tout actualiser" en bas à gauche. Ce qui aura pour effet si ce n'est déjà fait de mettre à jour votre répertoire de Skins..
+#### 3 => Dans l'interface de Rainmeter, dans l'onglet "Skins", cliquer sur le bouton "Tout actualiser" en bas à gauche. Ce qui aura pour effet si ce n'est déjà fait de mettre à jour votre répertoire de Skins.
